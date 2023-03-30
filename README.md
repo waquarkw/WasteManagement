@@ -10,6 +10,7 @@ to dig into the data to:
 5. Plot and analyze if the country falls under high, medium, low to medium or low income country VS total waste generated.
 
 # Relevant Packages
+Make sure to use the command to install altair library: pip install altair vega_datasets.
 The required packages to run this project can be found in requirement.txt file.
 
 # 5 Features Used for the requirements of the project

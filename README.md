@@ -9,6 +9,8 @@ to dig into the data to:
 4. Analyze how many of these countries fall under high, medium and low GDP.
 5. Plot and analyze if the country falls under high, medium, low to medium or low income country VS total waste generated.
 
+# Make sure to Run it on Google Collab to see Graphs
+
 # Relevant Packages
 Make sure to use the command to install altair library: pip install altair vega_datasets.
 The required packages to run this project can be found in requirement.txt file.
